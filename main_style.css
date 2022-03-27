@@ -1,0 +1,42 @@
+#main{
+    font-family: 'Poppins', sans-serif;
+    vertical-align:top;
+    text-align: center;
+    align-self: center;
+}
+
+#main_container{
+    background-color: blanchedalmond;
+}
+
+.result{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    align-self: center;
+    font-size: 40px;
+}
+
+.header{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    align-self: center;
+}
+
+ul.nav {
+    padding-left: 0px;
+    background-color:wheat;
+    text-align: center;
+    font-size: 30px;
+  }
+  ul.nav > li {
+    display: inline-block;
+    padding: 10px 20px;
+  }
+  ul.nav > li:hover {
+    background-color:bisque;
+    tras
+  }
+  ul.nav > li > a {
+    color: white;
+    text-decoration: none;
+  }
